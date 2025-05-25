@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Usiel-Figueroa
 - 👀 I’m interested in Technology, Science, Software Development.
-- 🌱 I’m currently learning Advanced Java & Secure Software Development.
+- 🌱 I’m currently learning DevOps & Secure Server Side Development.
 - 💞️ I’m looking to collaborate on Python programs or Java programs.
 - 📫 How to reach me: ufigueroa@my365.bellevue.edu 
 - 😄 Pronouns: He, Him, and his.
